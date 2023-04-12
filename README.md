@@ -1,3 +1,3 @@
 # collaboration
 
-Hello World, this is my first contribution!
+Hello class, this is Julian's contribution.
